@@ -36,7 +36,7 @@ The following process worked for me:
  - Think about the *big* question you want to help with.  
  - Think and read about what we know so far.  
  - Think about the biggest reasons why we don't know more.
-   What is are the major roadblocks facing the field?  
+   What are the major roadblocks facing the field?  
  - Given your expertise, what big roadblock are you most effective at pushing against?
    Don't bother pushing against minor roadblocks, take on a big one!  
  - Finally, make a plan on how to move the roadblock as much as you can.
@@ -56,7 +56,6 @@ Now that you know *what* you want to do, you have to think hard about *how* you'
 
 If your aiming for post-doc level or higher, at least one of the publications should be a Nature/Science paper, or the roadblock you are pushing against is not important enough or the combined effort of your studies is not going to move it far enough.
 Think through the project until there are no more large unknown areas.
-*In my case, I needed to figure out exactly how to make computational models predict neuroimaging data.*
 Write down the outline of your project.
 Group the tasks into work packages.
 Usually one study is one work package.
@@ -84,7 +83,6 @@ Presumably the reviewer is forced to read this, so you get this one for free.
 The first thing the reviewer wants to know is: "What is this project about?"
 So, that's your title.
 A good idea for a grand application is have the title be the dramatic outcome of your project, should all go well.
-*In my case, the title was: "Moving from observation to understanding in neuroscience: extending computational models to predict neuroimaging data"*
 
 Your title will hopefully make the reviewer genuinely interested in how you are going to pull the project off.
 Hence, you should in the Introduction spend as little time as possible before getting to that point.
