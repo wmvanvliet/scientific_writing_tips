@@ -54,7 +54,7 @@ Now that you know *what* you want to do, you have to think hard about *how* you'
  - What will be the study after that?
  - etc.
 
-If your aiming for post-doc level or higher, at least one of the publications should be a Nature/Science paper, or the roadblock you are pushing against is not important enough or the combined effort of your studies is not going to move it far enough.
+When your aiming for post-doc level or higher, aim to have at least one of your planned publications be a Nature/Science paper. If everything goes completely according to your plan and the result would still not be good enough for a top tier publication, the roadblock you are pushing against is not important enough or the combined effort of your studies is not going to move it far enough, so it's back to the drawing board.
 Think through the project until there are no more large unknown areas.
 Write down the outline of your project.
 Group the tasks into work packages.
