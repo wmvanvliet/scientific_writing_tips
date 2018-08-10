@@ -171,10 +171,6 @@ For each work package:
 
 I don't have any clear advice yet on the other sections.
 
-
-
-Some practical advice for writing academic texts
-
 ![alt text][logo]  
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0)
 
