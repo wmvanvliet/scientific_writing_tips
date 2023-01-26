@@ -82,13 +82,13 @@ This begins at the title.
 Presumably the reviewer is forced to read this, so you get this one for free.
 The first thing the reviewer wants to know is: "What is this project about?"
 So, that's your title.
-A good idea for a grant application is have the title be the dramatic outcome of your project, should all go well.
+A good idea is to have the title be the dramatic outcome of your project, should all go well.
 
 Your title will hopefully make the reviewer genuinely interested in how you are going to pull the project off.
-Hence, you should in the Introduction spend as little time as possible before getting to that point.
+Hence, you should in the Introduction aim to explain that as early as possible.
 Any text you put before getting to it is rapidly draining the attention span of the reviewer.
 However, you usually first must explain the roadblock you'll be pushing against, so say what you absolutely must, no more and no less.
-Once you get to the sentence that explains what you're actually going to do, put it in bold so the eye is drawn towards it.
+Once you get to the sentence that explains how you're actually going to do it, put it in bold so the eye is drawn towards it.
 
 
 ### The general guiding principle
