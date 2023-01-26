@@ -54,7 +54,7 @@ Now that you know *what* you want to do, you have to think hard about *how* you'
  - What will be the study after that?
  - etc.
 
-When your aiming for post-doc level or higher, aim to have at least one of your planned publications be a Nature/Science paper. If everything goes completely according to your plan and the result would still not be good enough for a top tier publication, the roadblock you are pushing against is not important enough or the combined effort of your studies is not going to move it far enough, so it's back to the drawing board.
+When your aiming for post-doc level or higher, aim to have at least one of your planned publications be a Nature/Science paper. If everything were to go completely according to plan and the result would still not be good enough for a top tier publication, the roadblock you are pushing against is not important enough or the combined effort of your studies is not going to move it far enough, so it's back to the drawing board.
 Think through the project until there are no more large unknown areas.
 Write down the outline of your project.
 Group the tasks into work packages.
@@ -72,17 +72,17 @@ This also means adding collaborations, visits to research groups abroad, etc., w
 When you're happy with the outline, you can move on and lock it down into writing.
 
 
-Writing the grand application
+Writing the grant application
 -----------------------------
 
-Grand writing seminars will tell you a god grand application is a real page turner.
+Grant writing seminars will tell you a good grant application is a real page turner.
 More concretely, this means that the goal for the first sentence is to make the reviewer want to read the next sentence, and the next, and the next, until he/she finishes your entire application.
 
 This begins at the title.
 Presumably the reviewer is forced to read this, so you get this one for free.
 The first thing the reviewer wants to know is: "What is this project about?"
 So, that's your title.
-A good idea for a grand application is have the title be the dramatic outcome of your project, should all go well.
+A good idea for a grant application is have the title be the dramatic outcome of your project, should all go well.
 
 Your title will hopefully make the reviewer genuinely interested in how you are going to pull the project off.
 Hence, you should in the Introduction spend as little time as possible before getting to that point.
@@ -93,7 +93,7 @@ Once you get to the sentence that explains what you're actually going to do, put
 
 ### The general guiding principle
 
-My most important guideline when structuring an academic text, especially grand proposals, is the principle of "academic need".
+My most important guideline when structuring an academic text, especially grant proposals, is the principle of "academic need".
 This principle states that the reader must first *want* to know something, before you tell it.
 All other "rules" follow from this principle.
 
@@ -147,9 +147,9 @@ There are some useful rules/guidelines that make it easier to trace a path:
  - avoid "branching" as much as possible; always prefer continuing an existing line of reasoning over starting a new one.
 
 
-### A successful grand application structure
+### A successful grant application structure
 
-My grand applications all have a similar structure that is centered around the work packages.
+My grant applications all have a similar structure that is centered around the work packages.
 
 After getting your introduction to the point where you can state what you're going to do (your first sentence in bold), you go over the background information needed to understand each work package.
 When writing the background information, your goal is to get to a single summary sentence explaining what you're going to do in the first work package.
